@@ -2,7 +2,7 @@
 2018-2019 Spring CSE2046 - Analysis of Algorithms Project-2
 
 Implementations of standart greedy approximation and dynamic programming aproaches on 0-1 single/multiple kanpsack problems.  
-Modified version of greedy algorithm and performance comparisons with standart ones are also included on reports.
+Modified version of greedy algorithm and performance comparisons between them are also included on reports.
 
 150117509 Mustafa Abdullah Hakkoz  
 150116065 Deniz Arda Gürzihin  
